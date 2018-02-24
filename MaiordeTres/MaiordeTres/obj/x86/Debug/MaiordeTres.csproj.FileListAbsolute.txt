@@ -1,0 +1,7 @@
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\MaiordeTres\obj\x86\Debug\MaiordeTres.frmMaiorValorTres.resources
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\MaiordeTres\obj\x86\Debug\MaiordeTres.Properties.Resources.resources
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\MaiordeTres\obj\x86\Debug\MaiordeTres.csproj.GenerateResource.Cache
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\MaiordeTres\bin\Debug\MaiordeTres.exe
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\MaiordeTres\bin\Debug\MaiordeTres.pdb
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\MaiordeTres\obj\x86\Debug\MaiordeTres.exe
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\MaiordeTres\obj\x86\Debug\MaiordeTres.pdb
